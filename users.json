@@ -1,0 +1,32 @@
+[
+    {
+        "userId": 1,
+        "id": 1,
+        "title": "Karthikeya Parthiv 12211767",
+        "completed": false
+    },
+    {
+        "userId": 1,
+        "id": 2,
+        "title": "Implementing Angular for End term practical ",
+        "completed": false
+    },
+    {
+        "userId": 1,
+        "id": 3,
+        "title": "Angular concepts include modules, directives",
+        "completed": false
+    },
+    {
+        "userId": 1,
+        "id": 4,
+        "title": "Angular concepts include filters and event",
+        "completed": true
+    },
+    {
+        "userId": 1,
+        "id": 4,
+        "title": "Angular concepts include HTTP requests and dependency injection",
+        "completed": true
+    }
+]
